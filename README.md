@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jothoma1&label=Profile%20views&color=0e75b6&style=flat" alt="jothoma1" /> </p>
 
-- 🔭 I’m currently working for **CHU de Rennes to manage healthcare infrastructure in France/BZH !**
+- 🔭 I’m currently working for **Groupe Hospitalier Rance Emeraude to manage healthcare infrastructure in France/BZH !**
 - Previously in @sibsante for middle schools with a lot of great tech (@nextcloud, @collabora, @vyos, @dell, @paloalto, @packetfence, @vectordev, @zabbix, @ruckus, etc)
 
 - 💬 Ask me about **infrastructure, systems, logs, monitoring, CMDB, conformity and automation**
